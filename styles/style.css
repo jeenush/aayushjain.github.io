@@ -1,0 +1,33 @@
+html{
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+    background-color: #00539F;
+}
+
+body{
+    width: 600px;
+    background-color: #e68925;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    margin: 0px;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 1px 2px 1px firebrick;
+}
+
+p,li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
